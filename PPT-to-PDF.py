@@ -1,4 +1,3 @@
-'''Author : Ryuodan'''
 
 import win32com.client
 
